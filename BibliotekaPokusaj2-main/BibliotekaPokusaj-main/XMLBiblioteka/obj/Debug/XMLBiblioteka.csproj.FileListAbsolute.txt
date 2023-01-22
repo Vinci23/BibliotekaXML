@@ -1,0 +1,38 @@
+C:\Users\PC\source\repos\XMLBiblioteka\XMLBiblioteka\bin\Debug\XMLBiblioteka.exe.config
+C:\Users\PC\source\repos\XMLBiblioteka\XMLBiblioteka\bin\Debug\XMLBiblioteka.exe
+C:\Users\PC\source\repos\XMLBiblioteka\XMLBiblioteka\bin\Debug\XMLBiblioteka.pdb
+C:\Users\PC\source\repos\XMLBiblioteka\XMLBiblioteka\obj\Debug\XMLBiblioteka.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\XMLBiblioteka\XMLBiblioteka\obj\Debug\XMLBiblioteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\XMLBiblioteka\XMLBiblioteka\obj\Debug\XMLBiblioteka.Form1.resources
+C:\Users\PC\source\repos\XMLBiblioteka\XMLBiblioteka\obj\Debug\XMLBiblioteka.Properties.Resources.resources
+C:\Users\PC\source\repos\XMLBiblioteka\XMLBiblioteka\obj\Debug\XMLBiblioteka.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\XMLBiblioteka\XMLBiblioteka\obj\Debug\XMLBiblioteka.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\XMLBiblioteka\XMLBiblioteka\obj\Debug\XMLBiblioteka.exe
+C:\Users\PC\source\repos\XMLBiblioteka\XMLBiblioteka\obj\Debug\XMLBiblioteka.pdb
+C:\Users\PC\source\repos\XMLBiblioteka\XMLBiblioteka\obj\Debug\XMLBiblioteka.UnosKorisnika.resources
+C:\Users\ucenik\Desktop\NE TICI\Niop\BibliotekaPokusaj-main\XMLBiblioteka\obj\Debug\XMLBiblioteka.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\NE TICI\Niop\BibliotekaPokusaj-main\XMLBiblioteka\obj\Debug\XMLBiblioteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\NE TICI\Niop\BibliotekaPokusaj-main\XMLBiblioteka\obj\Debug\XMLBiblioteka.Form1.resources
+C:\Users\ucenik\Desktop\NE TICI\Niop\BibliotekaPokusaj-main\XMLBiblioteka\obj\Debug\XMLBiblioteka.Properties.Resources.resources
+C:\Users\ucenik\Desktop\NE TICI\Niop\BibliotekaPokusaj-main\XMLBiblioteka\obj\Debug\XMLBiblioteka.UnosKorisnika.resources
+C:\Users\ucenik\Desktop\NE TICI\Niop\BibliotekaPokusaj-main\XMLBiblioteka\obj\Debug\XMLBiblioteka.csproj.GenerateResource.cache
+C:\Users\ucenik\Desktop\NE TICI\Niop\BibliotekaPokusaj-main\XMLBiblioteka\obj\Debug\XMLBiblioteka.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\NE TICI\Niop\BibliotekaPokusaj-main\XMLBiblioteka\obj\Debug\XMLBiblioteka.exe
+C:\Users\ucenik\Desktop\NE TICI\Niop\BibliotekaPokusaj-main\XMLBiblioteka\obj\Debug\XMLBiblioteka.pdb
+C:\Users\ucenik\Desktop\NE TICI\Niop\BibliotekaPokusaj-main\XMLBiblioteka\bin\Debug\XMLBiblioteka.exe.config
+C:\Users\ucenik\Desktop\NE TICI\Niop\BibliotekaPokusaj-main\XMLBiblioteka\bin\Debug\XMLBiblioteka.exe
+C:\Users\ucenik\Desktop\NE TICI\Niop\BibliotekaPokusaj-main\XMLBiblioteka\bin\Debug\XMLBiblioteka.pdb
+C:\Users\ucenik\Desktop\NE TICI\Niop\BibliotekaPokusaj-main\XMLBiblioteka\obj\Debug\XMLBiblioteka.UnosKnjiga.resources
+C:\Users\PC\source\repos\BibliotekaPokusaj2-main\BibliotekaPokusaj-main\XMLBiblioteka\bin\Debug\XMLBiblioteka.exe.config
+C:\Users\PC\source\repos\BibliotekaPokusaj2-main\BibliotekaPokusaj-main\XMLBiblioteka\bin\Debug\XMLBiblioteka.exe
+C:\Users\PC\source\repos\BibliotekaPokusaj2-main\BibliotekaPokusaj-main\XMLBiblioteka\bin\Debug\XMLBiblioteka.pdb
+C:\Users\PC\source\repos\BibliotekaPokusaj2-main\BibliotekaPokusaj-main\XMLBiblioteka\obj\Debug\XMLBiblioteka.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\BibliotekaPokusaj2-main\BibliotekaPokusaj-main\XMLBiblioteka\obj\Debug\XMLBiblioteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\BibliotekaPokusaj2-main\BibliotekaPokusaj-main\XMLBiblioteka\obj\Debug\XMLBiblioteka.Form1.resources
+C:\Users\PC\source\repos\BibliotekaPokusaj2-main\BibliotekaPokusaj-main\XMLBiblioteka\obj\Debug\XMLBiblioteka.Properties.Resources.resources
+C:\Users\PC\source\repos\BibliotekaPokusaj2-main\BibliotekaPokusaj-main\XMLBiblioteka\obj\Debug\XMLBiblioteka.UnosKnjiga.resources
+C:\Users\PC\source\repos\BibliotekaPokusaj2-main\BibliotekaPokusaj-main\XMLBiblioteka\obj\Debug\XMLBiblioteka.UnosKorisnika.resources
+C:\Users\PC\source\repos\BibliotekaPokusaj2-main\BibliotekaPokusaj-main\XMLBiblioteka\obj\Debug\XMLBiblioteka.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\BibliotekaPokusaj2-main\BibliotekaPokusaj-main\XMLBiblioteka\obj\Debug\XMLBiblioteka.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BibliotekaPokusaj2-main\BibliotekaPokusaj-main\XMLBiblioteka\obj\Debug\XMLBiblioteka.exe
+C:\Users\PC\source\repos\BibliotekaPokusaj2-main\BibliotekaPokusaj-main\XMLBiblioteka\obj\Debug\XMLBiblioteka.pdb

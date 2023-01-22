@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Knjige>
+  <Knjiga>
+    <Ime_i_prezime_autora>nekli autore</Ime_i_prezime_autora>
+    <Naslov>neka knjiga</Naslov>
+    <Izdavač>izdavac</Izdavač>
+    <Identifikator>1254</Identifikator>
+  </Knjiga>
+</Knjige>
